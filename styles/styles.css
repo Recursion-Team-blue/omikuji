@@ -1,0 +1,26 @@
+body{
+  background:radial-gradient(#F89174, #FFC778);
+  font-family: 'Yuji Syuku', serif;
+}
+
+.omikuji{
+  width: 300px;
+  border: thick double red;
+  background-color: white;
+}
+
+img {
+    object-fit: contain;
+}
+
+.omikuji h1 {
+    font-size: 4rem;
+    font-weight: 900;
+}
+
+.line-red {
+  display: block;
+  color: red;
+  width: 250px;
+  margin: auto;
+}
